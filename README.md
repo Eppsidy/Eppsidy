@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🎨 Full stack engineer who loves React
+🎨 Full stack engineer
 
 🎁 Open source enthusiast. Thanks to all the open source contributors!
 
